@@ -1,12 +1,12 @@
 # 📊 Sales Performance Dashboard (Power BI)
 
-> An interactive Power BI dashboard for analyzing sales performance, trends, and business insights using real-world sales data.
+> An interactive Power BI dashboard for analyzing sales performance, trends and business insights using real-world sales data.
 
 ---
 
 ## 📌 Project Overview
 This project presents a **fully interactive Sales Performance Dashboard** developed using **Power BI**.  
-The dashboard visualizes key business metrics, uncovers trends, and delivers actionable insights to support **data-driven decision-making**.
+The dashboard visualizes key business metrics, uncovers trends and delivers actionable insights to support **data-driven decision-making**.
 
 ---
 
@@ -103,4 +103,4 @@ The dataset was prepared using the following steps:
 ---
 
 ## 🏁 Conclusion
-This project demonstrates **end-to-end Power BI skills**, including data cleaning, transformation, modeling, visualization design, and insight generation. The dashboard provides a clear and professional view of sales performance and supports informed business decisions.
+This project demonstrates **end-to-end Power BI skills**, including data cleaning, transformation, modeling, visualization design and insight generation. The dashboard provides a clear and professional view of sales performance and supports informed business decisions.
