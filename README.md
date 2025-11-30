@@ -13,6 +13,12 @@ The dashboard visualizes key business metrics, uncovers trends and delivers acti
 ## 🧰 Tool Used
 - 🧩 **Power BI Desktop**
 
+## 🔧 Tool Installation (Optional)
+
+If you don’t have Power BI Desktop installed, you can download it here:  
+[Download Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+
 ---
 
 ## 📂 Dataset
